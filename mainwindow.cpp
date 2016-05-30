@@ -60,7 +60,7 @@ void MainWindow::createView(string viewName, string path) {
 
 void MainWindow::normalViewSlot() {
     QString file = QFileDialog::getOpenFileName(this,"",
-                                                "/Users/s2003zy/Dropbox/newData/mesh/",
+                                                "",
                                                 "Images (*.obj *.ply)"
                           );
     string path = file.toStdString();
