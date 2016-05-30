@@ -1,6 +1,6 @@
 # qt3DViewer
 
-## usage
+## Usage
 
 This project configuration under Mac OS.
 
