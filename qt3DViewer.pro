@@ -52,5 +52,3 @@ SOURCES += trimesh2/libsrc/conn_comps.cc  \
         trimesh2/libsrc/TriMesh_stats.cc  \
         trimesh2/libsrc/TriMesh_tstrips.cc
 
-DISTFILES += \
-    ncut.py
